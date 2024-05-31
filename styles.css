@@ -3,5 +3,9 @@ h1{
 }
 
 h2 {
-    background-color: aliceblue;
+   color: aqua;
+}
+
+button{
+    background-color: blue;
 }
